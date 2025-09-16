@@ -1,0 +1,35 @@
+[
+  {
+    "id": "intro-08crew",
+    "title": "Bienvenido a 08 Crew",
+    "category": "General",
+    "summary": "Qué hacemos en 08 Crew y cómo usar esta knowledge base.",
+    "content": "<h2>08 Crew</h2><p>08 Crew es una agencia de desarrollo web y marketing enfocada en soluciones para empresas. Esta knowledge base contiene guías, procesos y FAQ para clientes y el equipo.</p><h3>Cómo usarla</h3><p>Usa el buscador para encontrar artículos por título o contenido. Las categorías te ayudan a filtrar por tipo de contenido.</p>",
+    "tags": [
+      "introducción",
+      "acerca"
+    ]
+  },
+  {
+    "id": "deploy-vercel",
+    "title": "Deploy rápido con Vercel",
+    "category": "Deployment",
+    "summary": "Cómo desplegar un proyecto en Vercel en 3 pasos.",
+    "content": "<ol><li>Conecta tu repo de GitHub a Vercel.</li><li>Selecciona la rama y variables de entorno si las tienes.</li><li>Presiona Deploy y espera que termine. Vercel generará la URL pública.</li></ol>",
+    "tags": [
+      "deployment",
+      "vercel"
+    ]
+  },
+  {
+    "id": "uso-claude-code",
+    "title": "Instalando y usando claude-code",
+    "category": "Herramientas",
+    "summary": "Comandos básicos para instalar y usar @anthropic-ai/claude-code.",
+    "content": "<p>Instala globalmente: <code>npm install -g @anthropic-ai/claude-code</code>. Si lo quieres usar en un script Node, revisa la documentación del paquete y usa sus exports.</p>",
+    "tags": [
+      "herramientas",
+      "ai"
+    ]
+  }
+]
