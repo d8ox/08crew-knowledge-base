@@ -1,6 +1,6 @@
 # 08 Crew — Knowledge Base (React + Vite + Tailwind)
 
-Listo para subir a GitHub y desplegar en Vercel/Netlify.
+Preparado para despliegue en Vercel con `vercel.json` incluido.
 
 ## Comandos
 - `npm install`
@@ -8,4 +8,4 @@ Listo para subir a GitHub y desplegar en Vercel/Netlify.
 - `npm run build` (build)
 - `npm run preview` (previsualizar build)
 
-Personaliza `src/data/articles.json` con tus artículos.
+Sube a GitHub y conecta a Vercel o despliega directamente.
